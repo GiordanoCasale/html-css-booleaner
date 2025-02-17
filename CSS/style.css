@@ -6,7 +6,7 @@
 
 header{
     background-color: #4ea1ff ;
-    background-image: url("./img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-size: 300px ;
     padding-top: 25px;
 }
@@ -59,4 +59,23 @@ header{
 
 .tabella-2{
     width: 50%;
+}
+
+
+.colore-testa-tabella{
+    background-color: #20a9e5;
+    color: white;
+
+}
+
+.colore-body-tabella{
+    background-color:#b1e5f2 ;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    text-align:left
 }
